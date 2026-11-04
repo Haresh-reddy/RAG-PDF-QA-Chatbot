@@ -2,7 +2,7 @@
 
 Upload a PDF and ask questions about it. The app finds the most relevant passages in the document, sends only those to Google Gemini, and shows the answer with the pages it came from. If the answer is not in the document, it says so instead of guessing.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:https://haresh-rag-pdf-chatbot.streamlit.app/
 
 ## Screenshots
 ![Answer with sources](Screenshots/Answer%20with%20sources.png)
