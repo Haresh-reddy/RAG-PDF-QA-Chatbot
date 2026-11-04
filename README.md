@@ -5,10 +5,10 @@ Upload a PDF and ask questions about it. The app finds the most relevant passage
 **Live demo:** _add your Streamlit link here_
 
 ## Screenshots
-![Answer with sources](screenshots/01-answer-with-sources.png)
-![I don't know reply](screenshots/02-i-dont-know.png)
-![Guardrail blocking an unsafe prompt](screenshots/03-guardrail-blocked.png)
-![Sidebar with question history](screenshots/04-sidebar-history.png)
+![Answer with sources](Screenshots/Answer%20with%20sources.png)
+![I don't know reply](Screenshots/I%20don%27t%20know%20reply.png)
+![Guardrail blocking an unsafe prompt](Screenshots/Guardrails%20blocking%20an%20unsafe%20prompt.png)
+![Sidebar with question history](Screenshots/Sidebar%20with%20question%20history.png)
 
 ## Features
 - Upload any text-based PDF
